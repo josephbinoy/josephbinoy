@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="blank"><img align="center" src="blob:https://wallpapers.com/09d1e7a9-78bd-4e07-baaa-d70736edc178" height="100" /></a>
+<a target="blank"><img align="center" src="https://c.wallhere.com/photos/0b/6d/purple_sky_wires-1900719.jpg!d" height="100" /></a>
