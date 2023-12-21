@@ -1,4 +1,4 @@
-### [I like clouds](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### [I like clouds (dont click me :3)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
 **josephbinoy/josephbinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="blank"><img align="center" src="https://c.wallhere.com/photos/0b/6d/purple_sky_wires-1900719.jpg!d" width="100%" /></a>
+<a target="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://c.wallhere.com/photos/0b/6d/purple_sky_wires-1900719.jpg!d" width="100%" /></a>
